@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6e413ba3-616c-4ac6-b16c-500949ce7998" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day3Lab/js/Lorentzen_Audrey_Day3Lab.js" afterPath="$PROJECT_DIR$/Day3Lab/js/Lorentzen_Audrey_Day3Lab.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Lorentzen_Audrey_SDI_New.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,6 +26,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="Conditionals.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day3/js/Conditionals.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="sdi-lab3.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day3Lab/sdi-lab3.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -37,21 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Conditionals.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day3/js/Conditionals.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="28" max-vertical-offset="930">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Lorentzen_Audrey_Day3Lab.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day3Lab/js/Lorentzen_Audrey_Day3Lab.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.56646526" vertical-offset="0" max-vertical-offset="662">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6570997" vertical-offset="0" max-vertical-offset="750">
+              <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -73,8 +72,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="370" />
-    <option name="y" value="68" />
+    <option name="x" value="237" />
+    <option name="y" value="23" />
     <option name="width" value="957" />
     <option name="height" value="759" />
   </component>
@@ -239,7 +238,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="370" y="68" width="957" height="759" extended-state="0" />
+    <frame x="237" y="23" width="957" height="759" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -283,14 +282,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day3Lab/sdi-lab3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.391304" vertical-offset="0" max-vertical-offset="375">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day3/js/Conditionals.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
@@ -299,10 +290,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day3Lab/sdi-lab3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.391304" vertical-offset="0" max-vertical-offset="375">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day3Lab/js/Lorentzen_Audrey_Day3Lab.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56646526" vertical-offset="0" max-vertical-offset="662">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6570997" vertical-offset="0" max-vertical-offset="750">
+          <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
           <folding />
         </state>
       </provider>
