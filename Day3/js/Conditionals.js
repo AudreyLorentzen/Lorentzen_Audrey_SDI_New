@@ -18,7 +18,6 @@ Condtionals & Prompts
  {
      //This is the code that runs if the conditional is true
      console.log("Greetings, "+myName+".");
-
  }
 
 
