@@ -39,13 +39,13 @@ Condtionals & Prompts
 
  //New variable for data type tests
  var myNumber = 0;
- var secondNumber = 5;
+ var secondNumber = 5.123;
 
- myNumber = parseInt(prompt("Enter the number 5."));
+ myNumber = parseFloat(prompt("Enter the number 5.123"));
 
  if(myNumber === secondNumber)
  {
-     console.log("They match exactly!");
+     console.log("They match exactly! The number is " +myNumber+ ".");
 
  }else
  {
